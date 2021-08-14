@@ -1,6 +1,6 @@
 # STM32F407XX DRIVER
-Bare metal driver implemenation for (GPIO,SPI,I2C,UART) peripherals 
-## Implemented Drivers
+Bare metal driver implemenation for stm32f407g peripherals 
+## IMPLEMENTED PERIPHERAL DRIVER
 - GPIO
 - SPI
 - I2C
