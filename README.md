@@ -1,4 +1,6 @@
 # STM32F407XX DRIVER
+
+## Description
 Bare metal driver implemenation for stm32f407g peripherals 
 ## Implemented  Drivers
 - GPIO
@@ -108,8 +110,9 @@ Bare metal driver implemenation for stm32f407g peripherals
 
 ## Steps to use driver
  1. Configure user configurable items in config structure
- 2. Configure Handle structure 
- 3. Call Init API for respective peripheral 
+ 3. Configure Handle structure 
+ 4. Call Init API for respective peripheral 
+   
 
       
 
