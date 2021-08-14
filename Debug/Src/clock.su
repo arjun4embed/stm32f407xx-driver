@@ -1,0 +1,14 @@
+clock.c:30:6:delay	24	static
+clock.c:42:6:I2C1_Gpio_int	24	static
+clock.c:71:6:I2C1_init	8	static
+clock.c:94:6:switch_config	24	static
+clock.c:120:6:mode_interrupt	24	static
+clock.c:140:5:main	40	static
+clock.c:189:6:set_systick_timer	32	static
+clock.c:219:7:SysTick_Handler	48	static
+clock.c:358:6:rtc_lcd_int	16	static
+clock.c:430:6:set_rtc_alrm1	16	static
+clock.c:438:6:set_rtc_alrm2	16	static
+clock.c:448:6:set_rtc_time	32	static
+clock.c:457:6:set_rtc_date	32	static
+clock.c:468:6:EXTI1_IRQHandler	8	static

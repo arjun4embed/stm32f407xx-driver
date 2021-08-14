@@ -1,0 +1,6 @@
+LCD.c:5:13:delay	24	static
+LCD.c:13:6:Lcd_Send_Command	32	static
+LCD.c:40:6:Lcd_Send_Data	32	static
+LCD.c:69:6:lcd_set_cursor	16	static
+LCD.c:86:6:lcd_clear_display	16	static
+LCD.c:90:6:I2C_lcd_int	32	static

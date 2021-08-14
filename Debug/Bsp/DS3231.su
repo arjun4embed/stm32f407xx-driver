@@ -1,0 +1,9 @@
+DS3231.c:11:6:ds3231_set_time	24	static
+DS3231.c:39:6:ds3231_get_time	16	static
+DS3231.c:64:6:ds3231_set_date	16	static
+DS3231.c:77:6:ds3231_get_date	16	static
+DS3231.c:91:13:ds3231_write	32	static
+DS3231.c:99:16:ds3231_read	32	static
+DS3231.c:107:16:bcd_to_decimal	24	static
+DS3231.c:116:16:get_reg_value	32	static
+DS3231.c:124:16:decimal_to_bcd	24	static

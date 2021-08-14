@@ -1,0 +1,2 @@
+keypad.c:8:6:keypad_config	24	static
+keypad.c:39:9:keypad_scan	8	static
