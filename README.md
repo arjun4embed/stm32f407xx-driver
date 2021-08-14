@@ -110,7 +110,7 @@ Bare metal driver implemenation for stm32f407g peripherals
  1. Configure user configurable items in config structure
  2. Configure Handle structure 
  3. Call Init API for respective peripheral 
- 4. Call peripheral enable API 
+
       
 
        
